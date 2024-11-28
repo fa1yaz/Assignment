@@ -1,0 +1,49 @@
+Domain Name: kapilitshub.com
+Registry Domain ID: 2731241161_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2024-10-03T23:43:17Z
+Creation Date: 2022-10-11T01:44:49Z
+Registrar Registration Expiration Date: 2027-10-11T01:44:49Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: email@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 100 S. Mill Ave, Suite 1600
+Registrant City: Tempe
+Registrant State/Province: Arizona
+Registrant Postal Code: 85281
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=kapilitshub.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 100 S. Mill Ave, Suite 1600
+Tech City: Tempe
+Tech State/Province: Arizona
+Tech Postal Code: 85281
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=kapilitshub.com
+Name Server: NS13.DOMAINCONTROL.COM
+Name Server: NS14.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-11-28T15:33:17Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp

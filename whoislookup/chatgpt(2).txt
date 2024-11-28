@@ -1,0 +1,34 @@
+Domain Name: chatgpt.com
+Registry Domain ID: 2741883935_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-10-17T21:31:32+0000
+Creation Date: 2022-11-30T23:59:19+0000
+Registrar Registration Expiration Date: 2026-11-30T23:59:19+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: OpenAI
+Registrant State/Province: California
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/chatgpt.com
+Admin Organization: OpenAI
+Admin State/Province: California
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/chatgpt.com
+Tech Organization: OpenAI
+Tech State/Province: California
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/chatgpt.com
+Name Server: savanna.ns.cloudflare.com
+Name Server: hassan.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-11-27T15:37:04+0000 <<<

@@ -1,0 +1,66 @@
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.6.0                                              *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+*******************************************************************
+
+[*] Target: chatgpt.com 
+
+[*] Searching Otx. 
+                                                                                                                                                                                             
+[*] IPs found: 29                                                                                                                                                                            
+-------------------                                                                                                                                                                          
+104.18.24.95                                                                                                                                                                                 
+104.18.25.95                                                                                                                                                                                 
+104.18.30.2                                                                                                                                                                                  
+104.18.31.2                                                                                                                                                                                  
+104.18.32.115                                                                                                                                                                                
+104.18.32.47                                                                                                                                                                                 
+104.18.34.195                                                                                                                                                                                
+104.18.35.127                                                                                                                                                                                
+104.18.36.29                                                                                                                                                                                 
+104.21.56.25                                                                                                                                                                                 
+172.64.151.227                                                                                                                                                                               
+172.64.152.129                                                                                                                                                                               
+172.64.153.61                                                                                                                                                                                
+172.64.155.141                                                                                                                                                                               
+172.64.155.209                                                                                                                                                                               
+172.67.176.22                                                                                                                                                                                
+173.255.194.134                                                                                                                                                                              
+198.58.118.167                                                                                                                                                                               
+34.102.136.180                                                                                                                                                                               
+45.33.18.44                                                                                                                                                                                  
+45.33.2.79                                                                                                                                                                                   
+45.33.20.235                                                                                                                                                                                 
+45.33.23.183                                                                                                                                                                                 
+45.33.30.197                                                                                                                                                                                 
+45.56.79.23                                                                                                                                                                                  
+45.79.19.196                                                                                                                                                                                 
+72.14.178.174                                                                                                                                                                                
+72.14.185.43                                                                                                                                                                                 
+96.126.123.244                                                                                                                                                                               
+                                                                                                                                                                                             
+[*] No emails found.                                                                                                                                                                         
+                                                                                                                                                                                             
+[*] Hosts found: 12                                                                                                                                                                          
+---------------------                                                                                                                                                                        
+ab.chatgpt.com                                                                                                                                                                               
+api.chatgpt.com                                                                                                                                                                              
+chatgpt-async-webps-prod-eastus-5.chatgpt.com                                                                                                                                                
+chatgpt-async-webps-prod-southcentralus-2.chatgpt.com                                                                                                                                        
+chatgpt-async-webps-prod-southcentralus-4.chatgpt.com                                                                                                                                        
+chatgpt-async-webps-prod-westus-0-9e29c0310a29a59b.chatgpt.com                                                                                                                               
+chatgpt-async-webps-prod-westus-2-9e29c0310a29a59b.chatgpt.com                                                                                                                               
+chatgpt-async-webps-prod-westus-5.chatgpt.com                                                                                                                                                
+chatgpt-async-webps-staging-eastus-0.chatgpt.com                                                                                                                                             
+hooks-staging.chatgpt.com                                                                                                                                                                    
+privacy-pass-issuer.api.chatgpt.com                                                                                                                                                          
+www1.chatgpt.com

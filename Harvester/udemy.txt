@@ -1,0 +1,159 @@
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.6.0                                              *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+*******************************************************************
+
+[*] Target: udemy.com 
+
+[*] Searching Otx. 
+                                                                                                                                                                                             
+[*] IPs found: 11                                                                                                                                                                            
+-------------------                                                                                                                                                                          
+104.16.142.237                                                                                                                                                                               
+104.16.143.237                                                                                                                                                                               
+18.161.6.103                                                                                                                                                                                 
+18.161.6.117                                                                                                                                                                                 
+18.161.6.90                                                                                                                                                                                  
+18.161.6.98                                                                                                                                                                                  
+23.54.18.226                                                                                                                                                                                 
+23.54.19.176                                                                                                                                                                                 
+23.54.19.177                                                                                                                                                                                 
+23.54.19.81                                                                                                                                                                                  
+68.68.5.17                                                                                                                                                                                   
+                                                                                                                                                                                             
+[*] No emails found.                                                                                                                                                                         
+                                                                                                                                                                                             
+[*] Hosts found: 123                                                                                                                                                                         
+---------------------                                                                                                                                                                        
+aarpfdnlearn.udemy.com                                                                                                                                                                       
+ablink.alerts.udemy.com                                                                                                                                                                      
+ablink.students.udemy.com                                                                                                                                                                    
+ablink.udemybusiness.udemy.com                                                                                                                                                               
+about.udemy.com                                                                                                                                                                              
+actalent.udemy.com                                                                                                                                                                           
+aeticat.udemy.com                                                                                                                                                                            
+airliquide.udemy.com                                                                                                                                                                         
+apacbnpp.udemy.com                                                                                                                                                                           
+argano.udemy.com                                                                                                                                                                             
+asahigroup-japan.udemy.com                                                                                                                                                                   
+ausytechnologies.udemy.com                                                                                                                                                                   
+aws-dr.udemy.com                                                                                                                                                                             
+axpoiberia.udemy.com                                                                                                                                                                         
+azsajp.udemy.com                                                                                                                                                                             
+bci.udemy.com                                                                                                                                                                                
+bcp.udemy.com                                                                                                                                                                                
+becas-uporvenir.udemy.com                                                                                                                                                                    
+bki.udemy.com                                                                                                                                                                                
+blog.udemy.com                                                                                                                                                                               
+bosch.udemy.com                                                                                                                                                                              
+business.udemy.com                                                                                                                                                                           
+cedacri.udemy.com                                                                                                                                                                            
+cern.udemy.com                                                                                                                                                                               
+cglearning.udemy.com                                                                                                                                                                         
+citi.udemy.com                                                                                                                                                                               
+coelsa.udemy.com                                                                                                                                                                             
+cognizant.udemy.com                                                                                                                                                                          
+concentrix.udemy.com                                                                                                                                                                         
+confizlimited.udemy.com                                                                                                                                                                      
+cooperacionseguros.udemy.com                                                                                                                                                                 
+corona-ar.udemy.com                                                                                                                                                                          
+corpussolutions.udemy.com                                                                                                                                                                    
+dash.udemy.com                                                                                                                                                                               
+deloittedevelopment.udemy.com                                                                                                                                                                
+deltacontrols.udemy.com                                                                                                                                                                      
+dukeenergy.udemy.com                                                                                                                                                                         
+edgeuniversity.udemy.com                                                                                                                                                                     
+endava.udemy.com                                                                                                                                                                             
+eurofins.udemy.com                                                                                                                                                                           
+external-teksystems.udemy.com                                                                                                                                                                
+fortinet.udemy.com                                                                                                                                                                           
+forums.udemy.com                                                                                                                                                                             
+fpt-software.udemy.com                                                                                                                                                                       
+frontends-assets.udemy.com                                                                                                                                                                   
+genia-femsa.udemy.com                                                                                                                                                                        
+gsnlink.udemy.com                                                                                                                                                                            
+happiestminds.udemy.com                                                                                                                                                                      
+hcltechnologies.udemy.com                                                                                                                                                                    
+heifer.udemy.com                                                                                                                                                                             
+heritagepetroleum.udemy.com                                                                                                                                                                  
+hhm.udemy.com                                                                                                                                                                                
+hosparandasystem.udemy.com                                                                                                                                                                   
+hplearn.udemy.com                                                                                                                                                                            
+huntington.udemy.com                                                                                                                                                                         
+ibm.udemy.com                                                                                                                                                                                
+igt.udemy.com                                                                                                                                                                                
+indiana.udemy.com                                                                                                                                                                            
+infobip.udemy.com                                                                                                                                                                            
+interactivebrokers.udemy.com                                                                                                                                                                 
+investors.udemy.com                                                                                                                                                                          
+invex.udemy.com                                                                                                                                                                              
+kenyaairliftprogram.udemy.com                                                                                                                                                                
+kodigo.udemy.com                                                                                                                                                                             
+kpmgconsultingjp.udemy.com                                                                                                                                                                   
+lg-cns.udemy.com                                                                                                                                                                             
+lg.udemy.com                                                                                                                                                                                 
+loggi.udemy.com                                                                                                                                                                              
+losangeles.udemy.com                                                                                                                                                                         
+luxoft.udemy.com                                                                                                                                                                             
+magnati.udemy.com                                                                                                                                                                            
+marcelclasses.udemy.com                                                                                                                                                                      
+mark43.udemy.com                                                                                                                                                                             
+mastek.udemy.com                                                                                                                                                                             
+meralco.udemy.com                                                                                                                                                                            
+milbe.udemy.com                                                                                                                                                                              
+millennium.udemy.com                                                                                                                                                                         
+motorolasolutions.udemy.com                                                                                                                                                                  
+ndbstr.udemy.com                                                                                                                                                                             
+npcc.udemy.com                                                                                                                                                                               
+nstarx.udemy.com                                                                                                                                                                             
+oldmutuallimited.udemy.com                                                                                                                                                                   
+olisipo.udemy.com                                                                                                                                                                            
+opapsa.udemy.com                                                                                                                                                                             
+operativeuniversity.udemy.com                                                                                                                                                                
+ori-learningdxjp.udemy.com                                                                                                                                                                   
+palfinger.udemy.com                                                                                                                                                                          
+partnerportal.udemy.com                                                                                                                                                                      
+penguinsolutions.udemy.com                                                                                                                                                                   
+personalpy.udemy.com                                                                                                                                                                         
+precisionmedicinegrp.udemy.com                                                                                                                                                               
+qttechacademy.udemy.com                                                                                                                                                                      
+rakuten-india.udemy.com                                                                                                                                                                      
+randstadtalent.udemy.com                                                                                                                                                                     
+research.udemy.com                                                                                                                                                                           
+samsung.udemy.com                                                                                                                                                                            
+sfdphit.udemy.com                                                                                                                                                                            
+smbcg.udemy.com                                                                                                                                                                              
+smu.udemy.com                                                                                                                                                                                
+sncorp.udemy.com                                                                                                                                                                             
+societegenerale.udemy.com                                                                                                                                                                    
+sompo.udemy.com                                                                                                                                                                              
+sozialbank.udemy.com                                                                                                                                                                         
+staging.community.udemy.com                                                                                                                                                                  
+status.udemy.com                                                                                                                                                                             
+sumirikojp.udemy.com                                                                                                                                                                         
+suport.udemy.com                                                                                                                                                                             
+svante.udemy.com                                                                                                                                                                             
+synchrony.udemy.com                                                                                                                                                                          
+tcsglobal.udemy.com                                                                                                                                                                          
+techwavelearninghub.udemy.com                                                                                                                                                                
+telefonica-hispam.udemy.com                                                                                                                                                                  
+tm.udemy.com                                                                                                                                                                                 
+trinitypawling.udemy.com                                                                                                                                                                     
+tvazteca.udemy.com                                                                                                                                                                           
+ua.udemy.com                                                                                                                                                                                 
+udemy-images.udemy.com                                                                                                                                                                       
+unicorpcoppeltissf.udemy.com                                                                                                                                                                 
+victus.udemy.com                                                                                                                                                                             
+virginpulse.udemy.com                                                                                                                                                                        
+web.udemy.com                                                                                                                                                                                
+wgualumni.udemy.com                                                                                                                                                                          
+worldpay.udemy.com   
