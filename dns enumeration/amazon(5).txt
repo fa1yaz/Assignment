@@ -1,0 +1,101 @@
+dnsenum VERSION:1.3.1
+
+-----   amazon.in   -----
+
+
+Host's addresses:
+__________________
+
+amazon.in.                               5        IN    A        52.95.120.67
+amazon.in.                               5        IN    A        52.95.116.115
+amazon.in.                               5        IN    A        54.239.33.92
+
+
+Name Servers:
+______________
+
+ns2.amzndns.com.                         5        IN    A        156.154.68.10
+ns1.amzndns.com.                         5        IN    A        156.154.64.10
+ns1.amzndns.co.uk.                       5        IN    A        156.154.67.10
+ns2.amzndns.net.                         5        IN    A        156.154.69.10
+ns2.amzndns.co.uk.                       5        IN    A        204.74.120.1
+ns1.amzndns.net.                         5        IN    A        156.154.65.10
+ns2.amzndns.org.                         5        IN    A        156.154.150.1
+ns1.amzndns.org.                         5        IN    A        156.154.66.10
+
+
+Mail (MX) Servers:
+___________________
+
+amazon-smtp.amazon.com.                  5        IN    A        35.172.144.184
+
+
+Trying Zone Transfers and getting Bind Versions:
+_________________________________________________
+
+
+Trying Zone Transfer for amazon.in on ns2.amzndns.com ... 
+AXFR record query failed: REFUSED
+
+Trying Zone Transfer for amazon.in on ns1.amzndns.com ... 
+AXFR record query failed: REFUSED
+
+Trying Zone Transfer for amazon.in on ns1.amzndns.co.uk ... 
+AXFR record query failed: REFUSED
+
+Trying Zone Transfer for amazon.in on ns2.amzndns.net ... 
+AXFR record query failed: REFUSED
+
+Trying Zone Transfer for amazon.in on ns2.amzndns.co.uk ... 
+AXFR record query failed: REFUSED
+
+Trying Zone Transfer for amazon.in on ns1.amzndns.net ... 
+AXFR record query failed: REFUSED
+
+Trying Zone Transfer for amazon.in on ns2.amzndns.org ... 
+AXFR record query failed: REFUSED
+
+Trying Zone Transfer for amazon.in on ns1.amzndns.org ... 
+AXFR record query failed: REFUSED
+
+                                                                                                                                                                                                                                            
+Brute forcing with /usr/share/dnsenum/dns.txt:                                                                                                                                                                                              
+_______________________________________________                                                                                                                                                                                             
+                                                                                                                                                                                                                                            
+blog.amazon.in.                          5        IN    A        176.32.111.113                                                                                                                                                             
+jobs.amazon.in.                          5        IN    A        54.240.162.15
+jobs.amazon.in.                          5        IN    A        54.240.162.96
+jobs.amazon.in.                          5        IN    A        54.240.162.45
+jobs.amazon.in.                          5        IN    A        54.240.162.17
+relay.amazon.in.                         5        IN    CNAME    tp.fd3c5e3ba-frontier.amazon.in.
+tp.fd3c5e3ba-frontier.amazon.in.         5        IN    CNAME    d3afo9b28udb6c.cloudfront.net.
+d3afo9b28udb6c.cloudfront.net.           5        IN    A        18.155.49.74
+d3afo9b28udb6c.cloudfront.net.           5        IN    A        18.155.49.21
+d3afo9b28udb6c.cloudfront.net.           5        IN    A        18.155.49.62
+d3afo9b28udb6c.cloudfront.net.           5        IN    A        18.155.49.92
+shipping.amazon.in.                      5        IN    A        3.253.177.144
+www.amazon.in.                           5        IN    CNAME    tp.c95e7e602-frontier.amazon.in.
+tp.c95e7e602-frontier.amazon.in.         5        IN    CNAME    d1elgm1ww0d6wo.cloudfront.net.
+d1elgm1ww0d6wo.cloudfront.net.           5        IN    A        52.85.21.129
+
+                                                                                                                                                                                                                                            
+amazon.in class C netranges:                                                                                                                                                                                                                
+_____________________________                                                                                                                                                                                                               
+                                                                                                                                                                                                                                            
+ 3.253.177.0/24                                                                                                                                                                                                                             
+ 52.95.116.0/24
+ 52.95.120.0/24
+ 54.239.33.0/24
+ 54.240.162.0/24
+ 176.32.111.0/24
+
+                                                                                                                                                                                                                                            
+Performing reverse lookup on 1536 ip addresses:                                                                                                                                                                                             
+________________________________________________                                                                                                                                                                                            
+                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                            
+0 results out of 1536 IP addresses.
+
+                                                                                                                                                                                                                                            
+amazon.in ip blocks:                                                                                                                                                                                                                        
+_____________________ 

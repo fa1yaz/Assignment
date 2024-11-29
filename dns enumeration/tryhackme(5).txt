@@ -1,0 +1,76 @@
+dnsenum VERSION:1.3.1
+
+-----   tryhackme.com   -----
+
+
+Host's addresses:
+__________________
+
+tryhackme.com.                           5        IN    A        104.22.55.228
+tryhackme.com.                           5        IN    A        172.67.27.10
+tryhackme.com.                           5        IN    A        104.22.54.228
+
+
+Name Servers:
+______________
+
+kip.ns.cloudflare.com.                   5        IN    A        173.245.59.128
+kip.ns.cloudflare.com.                   5        IN    A        108.162.193.128
+kip.ns.cloudflare.com.                   5        IN    A        172.64.33.128
+uma.ns.cloudflare.com.                   5        IN    A        172.64.32.146
+uma.ns.cloudflare.com.                   5        IN    A        173.245.58.146
+uma.ns.cloudflare.com.                   5        IN    A        108.162.192.146
+
+
+Mail (MX) Servers:
+___________________
+
+alt3.aspmx.l.google.com.                 5        IN    A        142.251.186.27
+alt4.aspmx.l.google.com.                 5        IN    A        108.177.104.26
+alt1.aspmx.l.google.com.                 5        IN    A        173.194.202.27
+alt2.aspmx.l.google.com.                 5        IN    A        142.251.2.27
+aspmx.l.google.com.                      5        IN    A        142.251.175.27
+
+                                                                                                                                                                                                                                            
+Trying Zone Transfers and getting Bind Versions:                                                                                                                                                                                            
+_________________________________________________                                                                                                                                                                                           
+                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                            
+Trying Zone Transfer for tryhackme.com on kip.ns.cloudflare.com ... 
+AXFR record query failed: FORMERR
+
+Trying Zone Transfer for tryhackme.com on uma.ns.cloudflare.com ... 
+AXFR record query failed: FORMERR
+
+                                                                                                                                                                                                                                            
+Brute forcing with /usr/share/dnsenum/dns.txt:                                                                                                                                                                                              
+_______________________________________________                                                                                                                                                                                             
+                                                                                                                                                                                                                                            
+admin.tryhackme.com.                     5        IN    A        172.67.27.10                                                                                                                                                               
+admin.tryhackme.com.                     5        IN    A        104.22.54.228
+admin.tryhackme.com.                     5        IN    A        104.22.55.228
+blog.tryhackme.com.                      5        IN    A        104.22.54.228
+blog.tryhackme.com.                      5        IN    A        104.22.55.228
+blog.tryhackme.com.                      5        IN    A        172.67.27.10
+www.tryhackme.com.                       5        IN    A        104.22.55.228
+www.tryhackme.com.                       5        IN    A        172.67.27.10
+www.tryhackme.com.                       5        IN    A        104.22.54.228
+
+                                                                                                                                                                                                                                            
+tryhackme.com class C netranges:                                                                                                                                                                                                            
+_________________________________                                                                                                                                                                                                           
+                                                                                                                                                                                                                                            
+ 104.22.54.0/24                                                                                                                                                                                                                             
+ 104.22.55.0/24
+ 172.67.27.0/24
+
+                                                                                                                                                                                                                                            
+Performing reverse lookup on 768 ip addresses:                                                                                                                                                                                              
+_______________________________________________                                                                                                                                                                                             
+                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                            
+0 results out of 768 IP addresses.
+
+                                                                                                                                                                                                                                            
+tryhackme.com ip blocks:                                                                                                                                                                                                                    
+_________________________   

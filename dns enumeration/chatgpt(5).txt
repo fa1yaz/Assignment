@@ -1,0 +1,69 @@
+dnsenum VERSION:1.3.1
+
+-----   chatgpt.com   -----
+
+
+Host's addresses:
+__________________
+
+chatgpt.com.                             5        IN    A        172.64.155.209
+chatgpt.com.                             5        IN    A        104.18.32.47
+
+
+Name Servers:
+______________
+
+hassan.ns.cloudflare.com.                5        IN    A        108.162.195.149
+hassan.ns.cloudflare.com.                5        IN    A        162.159.44.149
+hassan.ns.cloudflare.com.                5        IN    A        172.64.35.149
+savanna.ns.cloudflare.com.               5        IN    A        172.64.34.136
+savanna.ns.cloudflare.com.               5        IN    A        108.162.194.136
+savanna.ns.cloudflare.com.               5        IN    A        162.159.38.136
+
+
+Mail (MX) Servers:
+___________________
+
+
+
+Trying Zone Transfers and getting Bind Versions:
+_________________________________________________
+
+
+Trying Zone Transfer for chatgpt.com on hassan.ns.cloudflare.com ... 
+AXFR record query failed: FORMERR
+
+Trying Zone Transfer for chatgpt.com on savanna.ns.cloudflare.com ... 
+AXFR record query failed: FORMERR
+
+
+Brute forcing with /usr/share/dnsenum/dns.txt:
+_______________________________________________
+
+search.chatgpt.com.                      5        IN    A        172.64.152.91
+search.chatgpt.com.                      5        IN    A        104.18.35.165
+www.chatgpt.com.                         5        IN    A        104.18.32.47
+www.chatgpt.com.                         5        IN    A        172.64.155.209
+
+
+chatgpt.com class C netranges:                                                                                                                                                                                                              
+_______________________________                                                                                                                                                                                                             
+                                                                                                                                                                                                                                            
+ 104.18.32.0/24                                                                                                                                                                                                                             
+ 104.18.35.0/24
+ 172.64.152.0/24
+ 172.64.155.0/24
+
+                                                                                                                                                                                                                                            
+Performing reverse lookup on 1024 ip addresses:                                                                                                                                                                                             
+________________________________________________                                                                                                                                                                                            
+                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                            
+0 results out of 1024 IP addresses.
+
+                                                                                                                                                                                                                                            
+chatgpt.com ip blocks:                                                                                                                                                                                                                      
+_______________________                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                            
+done.
