@@ -1,0 +1,86 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-12-23 07:18 EST
+Nmap scan report for 192.168.1.30
+Host is up (0.0084s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+|_http-dombased-xss: Couldn't find any DOM based XSS.
+| http-sql-injection: 
+|   Possible sqli for queries:
+|     http://192.168.1.30:80/wp-includes/js/jquery/?C=D%3BO%3DA%27%20OR%20sqlspider
+|     http://192.168.1.30:80/wp-includes/js/jquery/?C=S%3BO%3DA%27%20OR%20sqlspider
+|     http://192.168.1.30:80/wp-includes/js/jquery/?C=N%3BO%3DD%27%20OR%20sqlspider
+|_    http://192.168.1.30:80/wp-includes/js/jquery/?C=M%3BO%3DA%27%20OR%20sqlspider
+| http-slowloris-check: 
+|   VULNERABLE:
+|   Slowloris DOS attack
+|     State: LIKELY VULNERABLE
+|     IDs:  CVE:CVE-2007-6750
+|       Slowloris tries to keep many connections to the target web server open and hold
+|       them open as long as possible.  It accomplishes this by opening connections to
+|       the target web server and sending a partial request. By doing so, it starves
+|       the http server's resources causing Denial Of Service.
+|       
+|     Disclosure date: 2009-09-17
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6750
+|_      http://ha.ckers.org/slowloris/
+| http-csrf: 
+| Spidering limited to: maxdepth=3; maxpagecount=20; withinhost=192.168.1.30
+|   Found the following possible CSRF vulnerabilities: 
+|     
+|     Path: http://192.168.1.30:80/
+|     Form id: 
+|     Form action: /
+|     
+|     Path: http://192.168.1.30:80/?cat=1
+|     Form id: 
+|     Form action: /
+|     
+|     Path: http://192.168.1.30:80/?p=1
+|     Form id: 
+|     Form action: /
+|     
+|     Path: http://192.168.1.30:80/?p=1
+|     Form id: commentform
+|     Form action: /wp-comments-post.php
+|     
+|     Path: http://192.168.1.30:80/?m=202010
+|     Form id: 
+|     Form action: /
+|     
+|     Path: http://192.168.1.30:80/wp-login.php
+|     Form id: loginform
+|     Form action: /wp-login.php
+|     
+|     Path: http://192.168.1.30:80/?author=1
+|     Form id: 
+|     Form action: /
+|     
+|     Path: http://192.168.1.30:80/?p=1
+|     Form id: 
+|     Form action: /
+|     
+|     Path: http://192.168.1.30:80/?p=1
+|     Form id: commentform
+|     Form action: /wp-comments-post.php
+|     
+|     Path: http://192.168.1.30:80/wp-login.php?action=lostpassword
+|     Form id: lostpasswordform
+|_    Form action: /wp-login.php?action=lostpassword
+| http-enum: 
+|   /wp-login.php: Possible admin folder
+|   /readme.html: Wordpress version: 2 
+|   /: WordPress version: 4.1.31
+|   /wp-includes/images/rss.png: Wordpress version 2.2 found.
+|   /wp-includes/js/jquery/suggest.js: Wordpress version 2.5 found.
+|   /wp-includes/images/blank.gif: Wordpress version 2.6 found.
+|   /wp-includes/js/comment-reply.js: Wordpress version 2.7 found.
+|   /wp-login.php: Wordpress login page.
+|   /wp-admin/upgrade.php: Wordpress login page.
+|   /readme.html: Interesting, a readme.
+|_  /hidden/: Potentially interesting folder
+|_http-stored-xss: Couldn't find any stored XSS vulnerabilities.
+MAC Address: 08:00:27:29:3C:B1 (Oracle VirtualBox virtual NIC)
+
+Nmap done: 1 IP address (1 host up) scanned in 322.38 seconds
